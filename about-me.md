@@ -1,9 +1,9 @@
 # About me
 
-**Name:** Jakub
+**Name:** Jakub  
 **Position:** Test Engineer
 
-**Interested in**
-*- programming*
-*- guitar playing*
-*- Rick & Morty*
+**Interested in**  
+*- programming*  
+*- guitar playing*  
+*- Rick & Morty*  
